@@ -1,0 +1,44 @@
+.header1 {
+	height: 75px;
+	background-color: #989AEF;
+	font-size: 20px;
+}
+
+.container {
+	display: flex;
+}
+.aside1 {
+	float: right;
+	text-align: right;
+	border-left-style: double;
+	width: 200px;
+	height: 600px;
+	
+}
+
+#img1 {
+	float: right;
+	height: 100px;
+}
+	
+.personalInfo {
+	float: right;
+	text-align: left;
+	height: 500px;
+	width: 200px;
+	background-color: #F4F9BF;
+	border-top-style: ridge;
+}
+
+.leftspan {
+	width: 800px;
+	float: left;
+}
+
+#eduHead,#eduRow {
+	border: 1px solid;
+	text-align: center;
+}
+b {
+	color: blue;
+}
